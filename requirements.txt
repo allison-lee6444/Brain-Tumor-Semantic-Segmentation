@@ -10,3 +10,7 @@ albumentations
 tqdm
 scikit-image
 opencv-python
+pycocotools
+segment-anything
+monai
+sam2
