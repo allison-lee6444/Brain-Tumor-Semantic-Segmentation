@@ -1,0 +1,12 @@
+jupyter
+pillow
+numpy
+matplotlib
+transformers
+torch
+segmentation-models-pytorch
+torchvision
+albumentations
+tqdm
+scikit-image
+opencv-python
