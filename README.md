@@ -14,6 +14,7 @@ We recommend you to run the notebooks in this sequence to replicate our process:
 5. MicroSAM fine-tuning
 6. Evaluation
 
+You can access the model checkpoint files and dataset (and its binaries) in this [Google Drive folder](https://drive.google.com/drive/folders/1oUFuW7NYivvCwNq10L5ARlHdDI2hZLKf?usp=sharing)
 
 If you prefer to run it locally, first turn the using_colab flag to False 
 and install [mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)

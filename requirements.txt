@@ -14,3 +14,4 @@ pycocotools
 segment-anything
 monai
 sam2
+scikit-learn
